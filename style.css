@@ -13,12 +13,11 @@ h1 {
     background-color:#d4a373;
 }
 
-body {
+body, nav, footer {
     background-color: #a68a64;
 
 }
 
-footer {
-    background-color: #a68a64;
-
+footer{
+    height: 85px;
 }
